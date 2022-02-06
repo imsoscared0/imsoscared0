@@ -1,4 +1,4 @@
-<img align="left" alt="" width="26px" src="https://i.imgur.com/nfSBQPT.gif" />
+<img align="left" alt="" src="https://i.imgur.com/nfSBQPT.gif" />
 
 
 ### Hey! 👋 Welcome to my profile.
