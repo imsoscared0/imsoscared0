@@ -19,6 +19,7 @@
 <img align="left" alt="Python" width="26px" src="https://symbols.getvecta.com/stencil_92/73_python-icon.3d49e95599.svg" />
 <img align="left" alt="TypeScript" width="26px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" />
 
+<br />
 
 ---
 
