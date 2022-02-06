@@ -1,4 +1,4 @@
-<img align="center" alt="" width="500" src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" />
+<img align="center" alt="" width="500" height="10" src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" />
 
 
 ### Hey! 👋 Welcome to my profile.
