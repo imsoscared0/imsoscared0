@@ -20,8 +20,11 @@
 <img align="left" alt="TypeScript" width="26px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" />
 
 <br />
+<br />
 
 ---
+
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
