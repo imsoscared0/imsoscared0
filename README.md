@@ -28,7 +28,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  <br />
   <img align="left" alt="Sasha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nyaanity&show_icons=true&theme=radical" />
 
 </details>
