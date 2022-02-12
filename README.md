@@ -1,5 +1,3 @@
-<img align="center" alt="" width="1000" height="60" src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" />
-
 ---
 
 ### Languages and Tools:
@@ -30,6 +28,3 @@
   <img align="left" alt="Sasha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nyaanity&show_icons=true&theme=radical" />
 
 </details>
-
-
-<img align="center" alt="" width="1000" height="60" src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" />
