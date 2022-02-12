@@ -1,7 +1,5 @@
 <img align="center" alt="" width="1000" height="60" src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" />
 
-<br />
-
 ---
 
 ### Languages and Tools:
