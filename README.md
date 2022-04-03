@@ -14,6 +14,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Python" width="26px" src="https://symbols.getvecta.com/stencil_92/73_python-icon.3d49e95599.svg" />
 <img align="left" alt="TypeScript" width="26px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" />
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 
 <br />
 <br />
