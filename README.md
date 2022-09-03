@@ -8,7 +8,7 @@
 <br>
 
 # ✨ Tools & Languages ✨
-  <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" />
+  <a href="https://www.iconspng.com/image/139691/python-logo" title="Python Logo" target="_blank"><img src="https://www.iconspng.com/uploads/python-logo.png"  alt="Python Logo PNG icon" /><br />Python Logo PNG image</a>
 
 
 <p  align="center">
