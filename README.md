@@ -8,7 +8,7 @@
 <br>
 
 # ✨ Tools & Languages ✨
-  <img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
+  <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" />
 
 
 <p  align="center">
