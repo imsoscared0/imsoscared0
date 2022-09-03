@@ -8,7 +8,7 @@
 <br>
 
 # ✨ Tools & Languages ✨
-  <img src="https://www.iconspng.com/uploads/python-logo.png"  alt="Python Logo PNG icon" />
+  <img src="https://www.iconspng.com/uploads/python-logo.jpg"  alt="Python Logo PNG icon" />
 
 
 <p  align="center">
