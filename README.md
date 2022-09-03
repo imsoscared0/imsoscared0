@@ -1,6 +1,16 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #447ff7" align=center>
 
+
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+# ✨ Tools & Languages ✨
+
+
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
