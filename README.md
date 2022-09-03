@@ -8,7 +8,7 @@
 <br>
 
 # ✨ Tools & Languages ✨
-  <img src="https://www.iconspng.com/uploads/python-logo.jpg"  alt="Python Logo PNG icon" />
+  <img src="https://cdn.discordapp.com/attachments/652535148008701982/1015735308857393162/5968350.png"  alt="Python" />
 
 
 <p  align="center">
