@@ -1,6 +1,10 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #447ff7" align=center>
-  
+
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 # ✨ Tools & Languages ✨
   <img alt="Visual Studio Code" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -16,12 +20,12 @@
 <img alt="Java" width="46px" src="https://cdn.discordapp.com/attachments/652535148008701982/1015736465138909184/226777.png?size=4096" />
 <img alt="Ghidra" width="46px" src="https://cdn.discordapp.com/attachments/652535148008701982/1015736946376585296/Ghidra_Logo.png?size=4096" />
 <img alt="IDA Pro" width="46px" src="https://cdn.discordapp.com/attachments/652535148008701982/1015737720074686665/DA_v2edXcAENjun-removebg-preview.png?size=4096" />
-<br/>
+<br>
   
-<br/>
+<br>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br/>
+<br>
 
 # 📈 Statistics 📈
 ![](https://komarev.com/ghpvc/?username=Nyaanity&color=447ff7&label=Visitor+count)
@@ -35,8 +39,8 @@
 </p>
 
 
-<p  align="center"/>
+<p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br/>
+<br>
 
 </div>
