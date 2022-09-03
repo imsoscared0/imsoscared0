@@ -8,7 +8,8 @@
 <br>
 
 # ✨ Tools & Languages ✨
-
+  <img src="[https://github-readme-stats.vercel.app/api?username=Nyaanity&show_icons=true&theme=github_dark&hide_border=true](https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png)" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=Nyaanity&show_icons=true&theme=github_dark&hide_border=true](https://spng.subpng.com/20190627/rbh/kisspng-javascript-computer-icons-scalable-vector-graphics-list-of-javascript-enhancements-fandom-developers-5d1458957d99e3.9156714115616144855145.jpg)" />
 
 
 <p  align="center">
