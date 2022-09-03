@@ -3,15 +3,6 @@
 
 
 <p  align="center"/>
-<div>
-  <a href="https://tenor.com/view/line-neon-colorful-straigt-line-gif-17184892">
-    Line Neon GIF
-  </a>
-  from
-  <a href="https://tenor.com/search/line-gifs">
-    Line GIFs
-  </a>
-  </div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <br/>
 
 # ✨ Tools & Languages ✨
