@@ -23,6 +23,8 @@
 <img align="left" alt="TypeScript" width="26px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="TailwindCSS" width="26px" src="https://cdn.discordapp.com/attachments/652535148008701982/1015736265804615861/file_type_tailwind_icon_130128.png?size=4096" />
+  <img align="left" alt="Java" width="26px" src="https://cdn.discordapp.com/attachments/652535148008701982/1015736465138909184/226777.png?size=4096" />
+  <img align="left" alt="Kotlin" width="26px" src="https://cdn.discordapp.com/attachments/652535148008701982/1015736696152805516/Kotlin_Icon.svg.png?size=4096" />
 
 
 <p  align="center">
