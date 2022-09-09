@@ -20,6 +20,7 @@
 <img alt="Java" width="46px" src="https://cdn.discordapp.com/attachments/652535148008701982/1015736465138909184/226777.png?size=4096" />
 <img alt="Ghidra" width="46px" src="https://cdn.discordapp.com/attachments/652535148008701982/1015736946376585296/Ghidra_Logo.png?size=4096" />
 <img alt="IDA Pro" width="46px" src="https://cdn.discordapp.com/attachments/652535148008701982/1015737720074686665/DA_v2edXcAENjun-removebg-preview.png?size=4096" />
+<img alt="Angular" width="46px" src="https://cdn.discordapp.com/attachments/652535148008701982/1017749680911822889/2048px-Angular_full_color_logo.svg.png?size=4096" />
 <br>
   
 <br>
