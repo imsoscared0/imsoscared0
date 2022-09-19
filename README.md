@@ -23,7 +23,6 @@
 <img alt="Angular" width="46px" src="https://cdn.discordapp.com/attachments/652535148008701982/1017749680911822889/2048px-Angular_full_color_logo.svg.png?size=4096" />
 <img alt="Rust" width="46px" src="https://cdn.discordapp.com/attachments/652535148008701982/1018571796808740995/rust-logo-256x256-blk.png" />
 <img alt="Vim" width="46px" src="https://cdn.discordapp.com/emojis/1021321361521639476.webp?size=4096&quality=lossless" />
-<img alt="Rust" width="46px" src="https://cdn.discordapp.com/attachments/652535148008701982/1018571796808740995/rust-logo-256x256-blk.png" />
 <br>
 <br>
   
