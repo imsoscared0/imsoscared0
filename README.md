@@ -1,10 +1,6 @@
-<br>
-<br>
-<br>
-<br>
-<br>
-
+<div align="center">
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A5FHOFF)
+</div>
 
 <br>
 <br>
