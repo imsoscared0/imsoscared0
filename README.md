@@ -1,4 +1,14 @@
+<br>
+<br>
+<br>
+<br>
+<br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A5FHOFF)
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #ffffff" align=center>
