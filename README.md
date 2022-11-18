@@ -31,10 +31,10 @@
 <br>
 
 # 📈 Statistics 📈
-![](https://komarev.com/ghpvc/?username=Nyaanity&color=447ff7&label=Visitor+count)
+![](https://komarev.com/ghpvc/?username=imsoscared0&color=447ff7&label=Visitor+count)
 
 <p align="center">
-  <a href="https://github.com/Nyaanity">
+  <a href="https://github.com/imsoscared0">
     <img src="https://github-readme-stats.vercel.app/api?username=Nyaanity&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyaanity&theme=github-dark-blue&hide_border=true" />
     <img src="https://activity-graph.herokuapp.com/graph?username=Nyaanity&theme=react-dark" />
