@@ -31,7 +31,7 @@
 <br>
 
 # 📈 Statistics 📈
-![](https://komarev.com/ghpvc/?username=nyaxyz&color=447ff7&label=Visitor+count)
+![](https://komarev.com/ghpvc/?username=Nyaanity&color=447ff7&label=Visitor+count)
 
 <p align="center">
   <a href="https://github.com/nyaxyz">
