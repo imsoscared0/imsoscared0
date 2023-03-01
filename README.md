@@ -1,14 +1,6 @@
 
 <div name="main" align="center">
   
-  <br/>
-  
-  ![](https://komarev.com/ghpvc/?username=Nyaanity&color=de007e&label=Visitor+count)
-  
-  <br/>
-
-  ![](https://streak-stats.demolab.com?user=scirpter&theme=violet-dark)
-  
-  <br/>
+  Hello! I like letting programs do stuff that they're not supposed to do.
   
 </div>
